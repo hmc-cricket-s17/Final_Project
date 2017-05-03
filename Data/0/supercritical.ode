@@ -1,0 +1,5 @@
+dx/dt=µ*x-x^3
+init x=1
+par µ=0.1
+@ TOTAL=20,dt=0.05,xlo=0,xhi=100,maxstor=100000
+done
